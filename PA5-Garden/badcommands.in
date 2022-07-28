@@ -1,0 +1,20 @@
+rows: 1
+cols: 16
+
+PLANT (0,0) rose
+PLANT (0,1) rose
+PLANT (0,2) rose
+PLANT (0,3) rose
+PLANT (0,4) rose
+PLANT (0,5) rose
+PLANT (0,6) rose
+PLANT (0,7) rose
+PLANT (0,8) rose
+PLANT (0,9) rose
+PLANT (0,10) rose
+PLANT (0,11) rose
+PLANT (0,12) rose
+PLANT (0,13) rose
+PLANT (0,14) rose
+PLANT (0,15) rose
+PRINT
